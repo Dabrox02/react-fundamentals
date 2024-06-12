@@ -1,10 +1,10 @@
 import './App.css'
-import TreeList from './component/TreeList';
+import FormContact from './component/FormContact/FormContact';
 
 function App() {
   return (
     <>
-      <TreeList />
+      <FormContact />
     </>
   )
 }
