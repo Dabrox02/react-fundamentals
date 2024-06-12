@@ -1,10 +1,16 @@
 import './App.css'
-import FormContact from './component/FormContact/FormContact';
+import Post from './component/Post/Post';
 
 function App() {
   return (
     <>
-      <FormContact />
+      <Post>
+        <Post>
+          <Post>
+            <Post></Post>
+          </Post>
+        </Post>
+      </Post>
     </>
   )
 }
